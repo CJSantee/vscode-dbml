@@ -33,6 +33,10 @@
 				"extensions": [
 					".dbml"
 				],
+				"icon": {
+					"dark": "icons/dbml-icon.svg",
+					"light": "icons/dbml-icon.svg"
+				},
 				"configuration": "./language-configuration.json"
 			}
 		],
